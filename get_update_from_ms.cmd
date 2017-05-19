@@ -5,7 +5,8 @@ echo %date%-%time% 正在執行最新版更新檔。 >>%logfile%
 rem 切換工作目錄至批次檔所在目錄
 cd /d "%~dp0"
 rem This script build by w7513981, original Link1 - (https://drive.google.com/open?id=0B3sYaxH0Z5zVWEFXZTRDeVJaMGM)
-rem Original Link2 - (https://www.dropbox.com/s/vswq8jgeub8t4ff/WNCRYDEFEND.exe?dl=1)
+rem Original Link2 - (https://www.dropbox.com/s/aix8d8vap6xm9g0/WNCRYDEFEND.exe?dl=1)
+rem Original Repository - (https://github.com/w7513981/WNRYMSUPDATE)
 rem Share with NCUT CCNET 20170519
 rem Check Windows XP first, then check other os version, after that, check os bit, next, excute update.
 echo -----------------------------
